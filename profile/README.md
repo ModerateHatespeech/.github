@@ -1,7 +1,7 @@
 ## ModerateHatespeech
-We empower moderators with state of the art solutions that help moderate hate speech and foster more inclusive communities online. Our free, machine learning powered API helps moderate communities spanning hundreds of millions of people, providing real-time insight into toxicity, hate speech, and offensive content. 
+We empower communities with state-of-the-art solutions that help fight hate and foster more inclusive communities online. Our flagship, machine learning API helps manage communities spanning hundreds of millions of people, providing real-time insight into toxicity, and hate online. 
 
-We work directly with community leaders, through programs like our [Subreddit Anti-Toxicity Initative](https://moderatehatespeech.com/research/subreddit-program/), building tailored solutions through feedback and collaboration.
+We work directly with community leaders, through programs like our [SAT Initative](https://moderatehatespeech.com/research/subreddit-program/), building tailored solutions through feedback and collaboration.
 
 We seek to better understand hate speech on a global scale, through research and data like our [Twitter Toxicity Index](https://moderatehatespeech.com/research/twitter-toxicity-index/) and [database](https://moderatehatespeech.com/research/twitter-toxicity-index/search).
 
